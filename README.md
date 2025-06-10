@@ -71,7 +71,7 @@ Une fois déployé, utiliser les URLs dans la Google Play Console :
 ```
 Politique de confidentialité : https://yoursite.com/privacy-policy.html
 Site web du développeur : https://yoursite.com
-Contact du développeur : antoine.terrade@gmail.com
+Contact du développeur : terrade.antoine.pro@gmail.com
 ```
 
 ## 📧 Configuration des Emails
@@ -79,7 +79,7 @@ Contact du développeur : antoine.terrade@gmail.com
 Les adresses email sont configurées pour utiliser votre Gmail principal :
 
 ```
-antoine.terrade@gmail.com - Contact principal et support
+terrade.antoine.pro@gmail.com - Contact principal et support
 ```
 
 ### Alternative avec domaine personnalisé (optionnel)
@@ -103,7 +103,7 @@ Ajouter votre numéro SIRET dans `privacy-policy.html` :
     <p><strong>Antoine Terrade</strong><br>
     Micro-entrepreneur - Développeur indépendant<br>
     SIRET : [VOTRE_NUMERO_SIRET]<br>
-    Email : <a href="mailto:antoine.terrade@gmail.com">antoine.terrade@gmail.com</a></p>
+    Email : <a href="mailto:terrade.antoine.pro@gmail.com">terrade.antoine.pro@gmail.com</a></p>
 </div>
 ```
 
@@ -125,13 +125,13 @@ Les couleurs sont définies dans `:root` de `styles.css` :
 Toutes les références pointent vers :
 
 ```html
-<a href="mailto:antoine.terrade@gmail.com">antoine.terrade@gmail.com</a>
+<a href="mailto:terrade.antoine.pro@gmail.com">terrade.antoine.pro@gmail.com</a>
 ```
 
 ## ✅ Checklist de Déploiement
 
 - [ ] **Domaine configuré** et accessible
-- [ ] **Email antoine.terrade@gmail.com** opérationnel
+- [ ] **Email terrade.antoine.pro@gmail.com** opérationnel
 - [ ] **Numéro SIRET** ajouté dans la politique de confidentialité
 - [ ] **HTTPS activé** (obligatoire pour Play Store)
 - [ ] **URLs testées** sur mobile et desktop

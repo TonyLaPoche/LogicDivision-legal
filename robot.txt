@@ -1,0 +1,4 @@
+# robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://tonylapoche.github.io/LogicDivision-legal/sitemap.xml
